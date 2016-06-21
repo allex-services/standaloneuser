@@ -1,6 +1,5 @@
-function createStandAloneUserService(execlib, ParentServicePack) {
+function createStandAloneUserService(execlib, ParentService) {
   'use strict';
-  var ParentService = ParentServicePack.Service;
 
   function factoryCreator(parentFactory) {
     return {
