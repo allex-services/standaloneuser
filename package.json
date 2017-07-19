@@ -1,6 +1,6 @@
 {
   "name": "allex_standaloneuserservice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "StandAloneUserService",
   "main": "index.js",
   "scripts": {
